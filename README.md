@@ -47,7 +47,7 @@ The dataset used in this project is `hiring.csv`, which contains the following c
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ml-model-deployment-flask.git
+   git clone https://github.com/lunatic-bot/Deployment-Demo.git
    cd ml-model-deployment-flask
 2. Install the required Python libraries:
 
